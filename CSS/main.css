@@ -3,7 +3,7 @@ body{
 }
 
 a.text-light{
-    font-family: Brush Script MT, Brush Script Std, cursive;
+     font-family: CenturyGothic;;
 }
 
 nav{
@@ -20,12 +20,12 @@ nav.bg-dark{
     background-color: black;
 }
 a.nav-link{
-    font-family: Brush Script MT, Brush Script Std, cursive;
+     font-family: CenturyGothic;
 }
 
 button.btn{
     border-radius: 40px;
-    font-family:Brush Script MT, Brush Script Std, cursive;
+     font-family: CenturyGothic;
     margin-top: 8%;  
 }
 
@@ -37,7 +37,7 @@ scale: 1;
 
 
 h1{
-    font-family: Brush Script MT, Brush Script Std, cursive; 
+     font-family: CenturyGothic; 
     color: rgb(128, 122, 122);
     margin-top: 3%;
     font-size: 100px;
@@ -48,7 +48,7 @@ h1{
 button#button{
     background-color: rgb(0, 0, 0);
     color: rgb(255, 255, 255);
-    font-family: Brush Script MT, Brush Script Std, cursive;
+     font-family: CenturyGothic;
     border-color: aliceblue 1px solid;
     margin:6%;
     font-size: 90%;
@@ -82,7 +82,7 @@ img:hover{
 }
 
 p{
-    font-family: Brush Script MT, Brush Script Std, cursive;
+     font-family: CenturyGothic;
     font-size: 150%;
     padding-bottom: 15%;
 }
@@ -93,7 +93,7 @@ p:hover{
 
 H4{
     margin: 10%;
-    font-family: Brush Script MT, Brush Script  Std, cursive;
+     font-family: CenturyGothic;
     font-size: 400%;
 }
 
@@ -224,7 +224,7 @@ p.mt-lg-5{
     right: 600px;
     font-size: 20pX;
     padding-left: 10px;
-    font-family:'Times New Roman', Times, serif;
+     font-family: CenturyGothic;
     color: rgb(128, 122, 122);
 }
 
@@ -235,7 +235,7 @@ p.mt-lg-5{
  
 p.mt-lg-5 span{
     font-size: 35px; 
-    font-family: Brush Script MT, Brush Script  Std, cursive;   
+     font-family: CenturyGothic;   
 }
 
 p.mt-lg-5:hover{
@@ -252,7 +252,7 @@ p div#grid{
     position: absolute;
     text-align: start;
     padding-right: 200px;
-    font-family: Brush Script MT, Brush Script  Std, cursive;
+     font-family: CenturyGothic;
 }
     
 .Services{
@@ -286,7 +286,7 @@ div.mr-5 p.mt-5:hover{
 }
 
 div.mr-5 p.mt-5 span{
-    font-family: Brush Script MT, Brush Script  Std, cursive;
+     font-family: CenturyGothic;
     font-size: 35px;
     text-align-last:center;
 }
@@ -382,7 +382,7 @@ a#bt-r{
     position: relative;
     top: -220px;
     background-color: black;
-    font-family: Brush Script MT, Brush Script  Std, cursive;
+     font-family: CenturyGothic;
     border: 1px solid grey ;
     border-radius: 20px;
     margin: 1%;
@@ -448,7 +448,7 @@ input.form-control{
 
 label.form-label{
     color: rgb(0, 0, 0);
-    font-family: Brush Script MT, Brush Script  Std, cursive;
+     font-family: CenturyGothic;
     font-size: 50%;
 }
 
@@ -459,7 +459,7 @@ label.form-label{
 
 label.form-check-label{
     color: aliceblue;
-    font-family: Brush Script MT, Brush Script  Std, cursive;
+     font-family: CenturyGothic;
     font-size: 70%;
 }
 
@@ -477,7 +477,7 @@ button#submit:hover{
 
 h5.card-title{
      color: aliceblue;
-    font-family: Brush Script MT, Brush Script  Std, cursive;
+     font-family: CenturyGothic;
     font-size: 70%;
 }
 
@@ -488,7 +488,7 @@ h5.card-title:hover{
 
 p.card-text{
     font-size: 60%;
-     font-family: Brush Script MT, Brush Script  Std, cursive;
+      font-family: CenturyGothic;
      color: aliceblue;
 }
 
