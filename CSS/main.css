@@ -15,28 +15,13 @@ nav{
     color: rgb(255, 255, 255);
 }
 
+
 nav.bg-dark{
     background-color: black;
 }
 a.nav-link{
     font-family: Brush Script MT, Brush Script Std, cursive;
 }
-
-@keyframes fade-inout{
-
-    0%{
-opacity: 0;
-    }
-
-    100%{
-opacity: 1;
-    }
-}
-    
-#Hero{
-    animation: fade-inout 5s infinite alternate;
-}
-
 
 button.btn{
     border-radius: 40px;
@@ -49,6 +34,7 @@ background-color: aliceblue;
 color: black;
 scale: 1;
 }
+
 
 h1{
     font-family: Brush Script MT, Brush Script Std, cursive; 
@@ -72,6 +58,11 @@ button#button:hover{
     background-color: aliceblue;
     color: black;
 
+}
+
+    
+.Portfolio{
+    animation: fade-inout 3s infinite alternate;
 }
 
 img{
@@ -116,6 +107,11 @@ div#main-3{
     padding-bottom: -110px;
 }
 
+
+.About{
+    animation: fade-inout 3s infinite alternate;
+}
+
 p#me{
     padding-top: 1px;
     padding-bottom: 1px;
@@ -139,6 +135,10 @@ img.img-fluid{
     height: 80%;
 
 }
+    
+.Skills{
+    animation: fade-inout 3s infinite alternate;
+}
 
 img.img-fluid:hover{
 scale: 2;
@@ -158,9 +158,14 @@ span.text-light{
 
 }
 
-div#row{
+.Resume{
     margin-left: 400px;
     margin-right: 400px;
+}
+
+    
+#Hero{
+    animation: fade-inout 3s infinite alternate;
 }
 
 div.col-lx{
@@ -190,6 +195,11 @@ div.col-lx{
     margin-top: 20px;
 }
 
+    
+.row{
+    animation: fade-inout 3s infinite alternate;
+}
+
 i.bi{
     top: 50%;
     font-size: 28px;
@@ -217,6 +227,11 @@ p.mt-lg-5{
     font-family:'Times New Roman', Times, serif;
     color: rgb(128, 122, 122);
 }
+
+    
+#fag{
+    animation: fade-inout 3s infinite alternate;
+}
  
 p.mt-lg-5 span{
     font-size: 35px; 
@@ -239,6 +254,10 @@ p div#grid{
     padding-right: 200px;
     font-family: Brush Script MT, Brush Script  Std, cursive;
 }
+    
+.Services{
+    animation: fade-inout 3s infinite alternate;
+}
 
 div#grey{
     border-bottom: 3px white solid;
@@ -256,6 +275,11 @@ div.mr-5 p.mt-5{
     font-size: 15px;
 }
 
+    
+.Testimonial{
+    animation: fade-inout 3s infinite alternate;
+}
+
 div.mr-5 p.mt-5:hover{
     color: aqua;
     transition:  all ease-in;
@@ -270,6 +294,11 @@ div.mr-5 p.mt-5 span{
 div.mr-5 p.mt-5 span:hover{
     color: aqua;
     transition:  all ease-in;
+}
+
+ 
+.Contact{
+    animation: fade-inout 3s infinite alternate;
 }
 
 div#rain{
