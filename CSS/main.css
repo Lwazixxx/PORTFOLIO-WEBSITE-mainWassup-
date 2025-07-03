@@ -261,7 +261,7 @@ p div#grid{
 
 div#grey{
     border-bottom: 3px white solid;
-    margin-bottom: 100px;
+    margin-bottom: 200px;
 }
 
 h1.text-grey{
@@ -414,7 +414,12 @@ margin-top: 40px;
 
 div#key:hover{
     transform: scale(1.2);
-    transition: 1s all ease-in-out;
+    transition:  all ease-in-out;
+}
+
+div.card:hover{
+    transform: scale(1.2);
+    transition:  all ease-in-out;
 }
 
 div#key:hover{
@@ -447,7 +452,7 @@ input.form-control{
 }
 
 label.form-label{
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
      font-family: CenturyGothic;
     font-size: 50%;
 }
